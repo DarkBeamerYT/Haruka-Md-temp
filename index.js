@@ -103,7 +103,7 @@ const {
          }
          return message;
       },
-        browser: ['Haruka Multi Device','Safari','1.0.0'],
+        browser: ['DarkTzyy','Safari','1.0.0'],
         auth: state
     })
   if (haruka.user && haruka.user.id) haruka.user.jid = jidNormalizedUser(haruka.user.id)
