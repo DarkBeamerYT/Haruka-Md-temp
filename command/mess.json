@@ -1,13 +1,13 @@
 {
-    "wait": "Bntr kidz",
+    "wait": "Bntr lagi diproses",
     "error": {
-        "Iv": "Beri yg valid lah ngent",
-        "api": "Error"
+        "Iv": "Minimal itu beri link yang valid lah",
+        "api": "Maap cuy terjadi kesalahan"
     },
-    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
-    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
-    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
-    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "OnlyGrup": "Guna di group woi",
+    "OnlyPM": "Guna di private woi",
+    "GrupAdmin": "Minimal itu jadi admin",
+    "BotAdmin": "Beriin admin lah tod",
+    "OnlyOwner": "Emg lu owner kids?",
+    "OnlyPrem": "Beliin premium lah :v"
 }
