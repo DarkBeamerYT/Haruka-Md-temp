@@ -36,6 +36,7 @@ ${mundur}
  • Limit Game : ${isCreator ? 'Unlimited' : cekGLimit(sender, gcount, glimit)}
  • Balance : ${toCommas(getBalance(sender, balance))}
  • Role : ${role}
+ • *NOTE :* G usah main RPG kntl
  
  
 *MAIN MENU*${petik}
@@ -456,8 +457,8 @@ ${mundur}
 }
 
 exports.donate = (pushname, ownerNumber) => {
-    return`Contact  Owner:
+    return`Dipersilakan contact:
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `g ada kontol`
+exports.sewanya = `G ada kontol`
